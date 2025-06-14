@@ -1,1 +1,0 @@
-# sqlalchemy_best_practice
